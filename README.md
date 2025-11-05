@@ -12,7 +12,7 @@ Instructions on running the statements in google colab are labeled with comments
 7. Autotune
 8. Apply Data Augumentation
 9. View model summary
-10. 10. Create layers
+10. Create layers
 11. Fit model
 12. Plot model
 13. Freeze layers
