@@ -20,4 +20,6 @@ Instructions on running the statements in google colab are labeled with comments
 15. Fine tune
 16. View plots
 17. Unbatch and collect 25 samples
-Report can also be found in this link here: https://colab.research.google.com/drive/1h5iWifhvRJRXLnGZhRiJQJvvsUm4ByTc?usp=sharing
+Report can also be found in this link here:
+https://docs.google.com/document/d/1nl78Lk0ExVTfRuGE0AzG4i2uA5PEp4ioggCoaBmQvn8/edit?usp=sharing
+https://colab.research.google.com/drive/1h5iWifhvRJRXLnGZhRiJQJvvsUm4ByTc?usp=sharing
